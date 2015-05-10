@@ -1,0 +1,15 @@
+{
+	"name":"search",
+	"main":"search.js",
+	"version":"1.0.0",
+	"description":"Search backend and front end",
+	"dependencies":
+	{
+		"express":"4.2.x",
+		"body-parser":"~1.0.1",
+		"mongodb":"*",
+		"assert":"*",
+		"util":"*"
+	}
+}
+
